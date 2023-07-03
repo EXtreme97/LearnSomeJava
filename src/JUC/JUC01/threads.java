@@ -1,5 +1,5 @@
-package JUC;
+package JUC.JUC01;
 
-public class JUC01_threads {
+public class threads {
 
 }
